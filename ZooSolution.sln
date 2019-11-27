@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoo.Wpf", "Zoo.Wpf\Zoo.Wpf.csproj", "{C18022A9-4E7A-4F5B-A365-B574430D3AAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoo.Lib", "Zoo.Lib\Zoo.Lib.csproj", "{31457FC1-B37E-49ED-8C72-80955FCB775D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoo.Cons", "Zoo.Cons\Zoo.Cons.csproj", "{A0E916B0-45DB-4815-A280-7BAF03EB5E7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C18022A9-4E7A-4F5B-A365-B574430D3AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C18022A9-4E7A-4F5B-A365-B574430D3AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C18022A9-4E7A-4F5B-A365-B574430D3AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C18022A9-4E7A-4F5B-A365-B574430D3AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31457FC1-B37E-49ED-8C72-80955FCB775D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31457FC1-B37E-49ED-8C72-80955FCB775D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31457FC1-B37E-49ED-8C72-80955FCB775D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31457FC1-B37E-49ED-8C72-80955FCB775D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0E916B0-45DB-4815-A280-7BAF03EB5E7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0E916B0-45DB-4815-A280-7BAF03EB5E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0E916B0-45DB-4815-A280-7BAF03EB5E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0E916B0-45DB-4815-A280-7BAF03EB5E7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F8E154A-AFCC-4B5A-9EC2-358ADA677471}
+	EndGlobalSection
+EndGlobal
